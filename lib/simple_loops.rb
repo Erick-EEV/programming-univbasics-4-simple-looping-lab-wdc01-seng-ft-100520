@@ -10,5 +10,5 @@ end
 
 def output_array(array)
   counter = 0
-  
+  while counter < 0
 end
